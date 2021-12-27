@@ -1,6 +1,6 @@
 
  h1 {
-    color: red;
+    color: turquoise;
 }
         
 img {
@@ -10,11 +10,38 @@ img {
 #thirdDiv {
     height: 600px;
     width: 500px;
-    background-color: aquamarine;
+    background-color: thistle;
     border: 2px solid tomato;
 }
         
 #spanId {
     font-size: 18px;
     margin: 50px;
+}
+
+/* Extra Credits */
+ body {
+    background: url('https://imgr.search.brave.com/g_ln8TE6CcVVjVeoJBceUzLDWvC_1smgdEHw5Y4neic/fit/1200/1200/ce/1/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M5LzQ2/Lzk4L2M5NDY5ODJl/MzI4OTA1YzRiNWFi/ZDFhMzJiZTQzNzU3/LmpwZw');
+    color: white;
+
+}
+
+#thirdDiv {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    
+}
+.divClass {
+    display: block;
+    text-align: center;
+    padding: 25px;
+    
+}
+
+#spanId {
+    font-weight: bold;
+    color: white;
+    background-color: sienna;
 }

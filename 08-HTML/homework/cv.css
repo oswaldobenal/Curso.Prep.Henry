@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    display: flex;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.document {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: khaki;
+    text-align: center;
+    border: 2px solid tan;
+}
+
+p, li, h3 {
+    text-align: justify;
+}
